@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a9fcd42.css",
+    "main.js": "/static/js/main.4892cf46.js",
+    "static/media/club-sandwich.png": "/static/media/club-sandwich.e599a12a75efc4b561fd.png",
+    "static/media/chicken-pie.png": "/static/media/chicken-pie.be21a7ef0f18fd56008a.png",
+    "static/media/meat-pie.png": "/static/media/meat-pie.9a4cdcfa5efe349b7f5c.png",
+    "static/media/chicken-sandwich.png": "/static/media/chicken-sandwich.9a820837053655f0c7a8.png",
+    "static/media/coke.png": "/static/media/coke.d6d6a89c67cfabf71af5.png",
+    "static/media/7up.png": "/static/media/7up.a65126ee002cc93898e7.png",
+    "static/media/croissant.png": "/static/media/croissant.42b9155034dfccfc654c.png",
+    "static/media/cinnamon-roll.png": "/static/media/cinnamon-roll.5459e09cee0e5b6ac395.png",
+    "static/media/egg-sandwich.png": "/static/media/egg-sandwich.92afb0b145c8df102ee7.png",
+    "static/media/fanta.png": "/static/media/fanta.7ec23a9322e19849e064.png",
+    "static/media/logo.jpg": "/static/media/logo.27b8e75138720ef416ba.jpg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/sprite.webp": "/static/media/sprite.ed49f605c2c098510c93.webp",
+    "static/media/default-avatar.svg": "/static/media/default-avatar.d4140edf479e90525e470c610a6e97fd.svg",
+    "static/media/pos-terminal-icon.svg": "/static/media/pos-terminal-icon.6846de28a7e3eba91426578e7ae07356.svg",
+    "index.html": "/index.html",
+    "main.0a9fcd42.css.map": "/static/css/main.0a9fcd42.css.map",
+    "main.4892cf46.js.map": "/static/js/main.4892cf46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a9fcd42.css",
+    "static/js/main.4892cf46.js"
+  ]
+}
